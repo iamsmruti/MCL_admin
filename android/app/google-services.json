@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359862813046",
+    "project_id": "mcl-project-b7af6",
+    "storage_bucket": "mcl-project-b7af6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359862813046:android:0fd0a38b7b80d0859dba57",
+        "android_client_info": {
+          "package_name": "com.example.mcl_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359862813046-j85iogdo360hluarp13k2aek1eoek82f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS24szOd82bLF0n91HYapuNLnlqk8R324"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359862813046-j85iogdo360hluarp13k2aek1eoek82f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
